@@ -4,3 +4,4 @@ testing
 rebase testing
 add one line
 add one line in a.txt by user A
+add one line in a.txt by user A again
