@@ -3,3 +3,4 @@ hohohohoho
 hehehehehe
 rebase test
 add one line in b.txt by user B
+add one line in b.txt by user B again
