@@ -1,3 +1,4 @@
 rebase test
 add one line in c.txt by user B
 add one line in c.txt by user B again
+hello world
